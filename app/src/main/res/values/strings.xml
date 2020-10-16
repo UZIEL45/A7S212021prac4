@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">A7S212021prac4</string>
+    <string name="t1ppng">IMAGEN PNG</string>
+    <string name="t1pjpg">IMAGEN JPG</string>
+    <string name="t1pURL">IMAGEN URL</string>
+</resources>
